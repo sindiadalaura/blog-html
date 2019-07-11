@@ -1,0 +1,229 @@
+body{
+
+width: 1000px;
+height: 800px;
+margin: auto;
+padding-top: 10px;
+
+
+}
+
+
+header{
+
+	width: 1000px;
+	height: 100px;
+	padding-top: 10px;
+	background-color: #009acd;
+
+
+	
+}
+
+
+header a{
+	text-align: center;
+	color: white;
+	padding-top: -20px;
+	font-family:"georgia", sans-serif;
+	font-size: 15.5px;
+	font-style: italic;
+	
+}
+header img{
+
+ 	height: 100px;
+ 	width:100px;
+ padding-top: -1px;
+ margin-top: -10px;
+}
+
+.p{
+
+	width: 999px;
+	height:350px;
+	background-color:;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	
+
+}
+
+.p article{
+	width: 320px;
+	height: 340px;
+	float: left;
+	margin-right: 5px;
+	margin-left: 8px;
+	border-radius: 5px;
+	box-shadow:inset 0px 0px 2.5px #607b8b; 	
+}
+
+.p2{
+
+font-size:15.5px;
+font-family: "georgiae",sans-serif;
+padding-left: 10px;
+padding-top: 10px;
+text-align: justify;
+padding-right: 10px;
+color: black;
+font-style: italic;
+
+
+
+
+}
+
+.p3{
+	
+
+font-size:15.5px;
+font-family: "georgiae",sans-serif;
+color: black;
+padding-top: 10px;
+text-align: justify;
+padding-right: 10px;
+font-style: italic;
+padding-left: 10px;
+
+
+}
+
+.p4{
+
+font-size:15.5px;
+font-family: "georgiae",sans-serif;
+color: black;
+padding-top: 10px;
+text-align: justify;
+padding-right: 10px;
+font-style: italic;
+padding-left: 10px;
+
+
+}
+
+
+
+.p1{
+	
+	width: 1000px;
+	height:320px;
+	background-color: ;
+	
+	}
+
+
+	.p1 article{
+
+	width: 320px;
+	height: 320px;
+	float: left;
+	margin-right: 5px;
+	margin-left: 8px;
+	border-radius: 5px;
+	box-shadow:inset 0px 0px 2.5px #009acd; 
+	
+	
+}
+
+figure img {
+	width: 280px;
+	height: 140px;
+	padding-left:20px;
+	padding-top:15px;
+
+}
+figcaption {
+	font-size: 15.5px;
+	color:black;
+	font-family:"georgia", sans-serif;
+	padding-left: 5px;
+	font-style: italic;
+	text-align: justify;
+	padding-right: 5px;
+	
+}
+	
+
+nav {
+
+
+margin-top: -5px;
+float: right;
+
+width:  30%;
+height: 10%;
+}
+
+nav ul li{
+
+    display: inline;
+    margin: 1%;
+
+}
+
+
+nav a{
+
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+
+}
+nav a:hover{
+	color: cyan;
+}
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+footer{
+
+	width: 1000px;
+	height: 120px;
+	padding-top: 10px;
+	margin-bottom: 10px;
+	background-color: #009acd;
+	margin-top: 1px;
+	
+}
+
+footer img{
+	height: 50px;
+ 	width:50px;
+ padding-top: 5px;
+ margin-top: 10px;
+ padding-left: 10px;
+ padding-bottom: 10px;
+
+
+}
+
+
+footer p{
+	font-style:italic;
+	color: white;
+	font-size:15.5px;
+	font-family:"georgia" sans-serif;
+	
+}
+
+span {
+
+	font-style:italic;
+	color: white;
+	font-size:15.5px;
+	font-family:"georgia" sans-serif;
+ }
+
+
+
+
+

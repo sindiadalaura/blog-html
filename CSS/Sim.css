@@ -1,0 +1,192 @@
+body{
+
+width: 1000px;
+height: 800px;
+margin: auto;
+padding-top: 10px;
+
+
+}
+
+header{
+
+	width: 1000px;
+	height: 200px;
+	padding-top: 10px;
+	background-color: navy;
+
+	
+}
+
+section{
+
+
+    width: 1000px;
+    height: 400px;
+    padding-top: 10px
+    padding-bottom:10px;
+	
+	
+	animation: section 15s infinite;
+
+}
+
+@keyframes section {
+
+
+   0%, 10% {
+
+     background-image: url(../Imagens/banner3.jpg);
+   }
+  15%, 25%{
+
+     background-image: url(../Imagens/banner5.jpg);
+
+  }
+
+   30%, 40% {
+
+     background-image: url(../Imagens/s7.jpg);
+   }
+  45%, 60%{
+
+     background-image: url(../Imagens/banner4.jpg);
+
+  }
+
+   65%, 70% {
+
+     background-image: url(../Imagens/ss.jpg);
+   }
+  75%, 80%{
+
+     background-image: url(../Imagens/banner19.jpg);
+
+  }
+
+   85%, 90% {
+
+     background-image: url(../Imagens/banner20.jpg);
+   }
+  95%, 100%{
+
+     background-image: url(../Imagens/banner30.jpg);
+
+  }
+
+
+
+}
+
+header p{
+	text-align: center;
+	color: white;
+	padding-top: -20px;
+	font-family:"georgia", sans-serif;
+	font-size: 15.5px;
+	clear: both;
+	font-style: italic;
+	
+}
+
+header a{
+	text-align: center;
+	color: white;
+	padding-top: -20px;
+	font-family:"georgia", sans-serif;
+	font-size: 15.5px;
+	clear: both;
+	font-style: italic;
+	
+}
+
+
+header img{
+
+ 	height: 100px;
+ 	width:100px;
+ padding-top: -1px;
+ margin-top: -10px;
+ 
+}
+
+
+header a:hover{
+	color: grey;
+}
+
+
+nav {
+
+
+margin-top: -5px;
+float: right;
+
+width:  30%;
+height: 10%;
+}
+
+nav ul li{
+
+    display: inline;
+    margin: 1%;
+
+}
+
+
+nav a{
+
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+}
+
+nav a:hover{
+	color: grey;
+}
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+
+footer{
+
+
+    width: 1000px;
+    height: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+	background-color: navy;
+}
+
+
+
+footer img{
+	height: 50px;
+ 	width:50px;
+ padding-top: 5px;
+ margin-top: 10px;
+ padding-left: 1px;
+ padding-bottom: 10px;
+
+}
+footer p{
+	font-style:italic;
+	color: white;
+	font-size:15.5px;
+	font-family:"georgia" sans-serif;
+	
+}
+
+span {
+
+	font-style:italic;
+	color: white;
+	font-size:15.5px;
+	font-family:"georgia" sans-serif;
+ }
+

@@ -1,0 +1,174 @@
+body{
+
+width: 1000px;
+height: 800px;
+margin: auto;
+padding-top: 10px;
+
+
+}
+
+header{
+
+	width: 1000px;
+	height: 100px;
+	padding-top: 10px;
+	background-color: cadetblue;
+	
+}
+
+header a{
+  text-align: center;
+  color:white;
+  padding-top: -20px;
+  font-family:"georgia", sans-serif;
+  font-size: 15.5px;
+  clear: both;
+  font-style: italic;
+  
+}
+header img{
+
+ height: 100px;
+  width:100px;
+ padding-top: -1px;
+ margin-top: -10px;
+ 
+}
+
+.p5 img{
+width: 117px;
+height:90px;
+float: left;
+padding-top: -5px;
+padding-left: 5px;
+padding-bottom: 10PX;
+background-color: azure;
+}
+
+.p5{
+  width: 1000px;
+    height: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  background-color: white;
+  overflow-y: scroll;
+}
+
+
+
+.p4{
+
+
+    width: 1000px;
+    height: 300px;
+    padding-top: 10px
+    padding-bottom:10px;
+  background-color: #008b8b;
+  animation: p4 15s infinite;
+
+}
+
+
+@keyframes p4 {
+
+
+   0%, 25% {
+
+     background-image: url(../Imagens/t2.jpg);
+   }
+  30%, 55%{
+
+     background-image: url(../Imagens/banner2.jpg);
+
+  }
+
+   60%, 75% {
+
+     background-image: url(../Imagens/banner3.jpg);
+   }
+  80%, 100%{
+
+     background-image: url(../Imagens/ss.jpg);
+
+  }
+
+}
+
+
+
+nav {
+
+
+
+float: right;
+
+width:  30%;
+height: 10%;
+}
+
+nav ul li{
+
+    display: inline;
+    margin: 1%;
+
+}
+
+
+nav a{
+
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+
+}
+nav a:hover{
+  color: navy;
+}
+
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+footer{
+
+
+    width: 1000px;
+    height: 120px;
+    padding-top: -5px;
+    padding-bottom: 10px;
+  background-color: cadetblue;
+}
+footer img{
+  height: 50px;
+  width:50px;
+ padding-top: 5px;
+ margin-top: 10px;
+ padding-left: 1px;
+ padding-bottom: 10px;
+
+}
+
+footer p{
+  font-style:italic;
+  color: white;
+  font-size:15.5px;
+  font-family:"georgia" sans-serif;
+  
+}
+
+
+span{
+
+  font-style:italic;
+  color: white;
+  font-size:15.5px;
+  font-family:"georgia" sans-serif;
+ }
+
+
+
+
